@@ -8,6 +8,7 @@ vibration sensors/actuators by simply connecting leads to the ends of a conducti
 # Call for Participation
 
 # Workshop Schedule
+
 | Workshop Schedule | |
 |---|---|
 | Organizer and participant introductions | 10 minutes |
