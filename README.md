@@ -1,3 +1,5 @@
+![Test Image 1](/LTDM_Workshop_hero_1000pixel.png)
+
 # Workshop Description
 
 **When:** Tuesday 23 June 2026, 2pm-6pm
