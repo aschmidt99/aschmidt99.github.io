@@ -1,4 +1,4 @@
-<img width="1000" height="332" alt="LTDM_Workshop_hero_1000pixel" src="https://github.com/user-attachments/assets/3ec645ff-ad00-4c98-9bfe-4c336df01fa7" />
+<img width="1000" alt="LTDM_Workshop_hero_1000pixel" src="https://github.com/user-attachments/assets/3ec645ff-ad00-4c98-9bfe-4c336df01fa7" />
 
 # Workshop Description
 
@@ -33,7 +33,7 @@ guitar pickup, microphone, or speaker, the key to transduction between electrica
 field near to the wire. In our case, this is provided by a strong permanent neodymium magnet. The hardware then rapidly
 alternates between sensing and actuating modes (at 20kHz), a scheme characteristic of Time Division Multiplexing (TDM). We are then granted ability to feed the sensed signal back into the actuation hardware nearly simultaneously but without electrical crosstalk because the sensing and actuating events are isolated in time rather than space (see below figure). The result is the indefinitely sustaining vibrations in a string similar to an eBow Sustainer, Sustainiac, Fernandes Sustainer, or Moog Guitar.
 
-<img width="3128" height="1707" alt="LTDM" src="https://github.com/user-attachments/assets/fe207f84-cd10-476c-bd8e-86fb8e33b239" />
+<img width="3128" alt="LTDM" src="https://github.com/user-attachments/assets/fe207f84-cd10-476c-bd8e-86fb8e33b239" />
 
 The LTDM kit makes the deployment of feedback-actuated instruments simpler than ever with the minimum requirements to build a feedback system being just two electrical leads, a conductive resonant string, and a permanent magnet. No computers, calibrations, or theoretical understanding of the system are required to deploy a new feedback system, making the kit ideal for a short workshop with the barrier to making a new feedback string instrument being lower than ever. All of the hardware requirements for this feedback-actuation scheme have been designed into the portable kit so that electronic luthiers can focus on coaxing out new timbres, interactions, and behaviors out of the same strings that have been found on instruments for centuries. We have developed a handful of LTDM-based instrument configurations already, but there are seemingly endless possibilities for how to deploy and enjoy this hardware technology. New timbres have been explored thus far by altering the code within the feedback scheme, experimenting with magnet positions and arrangements,and by creating resonant mechanisms with emergent behavior(s). We wish to engage the creativity of the NIME community to explore additional playing techniques, software algorithms, and instrument morphologies. Some example project ideas that could be investigated during the workshop include (but are not limited to):
 - A physical synthesis step sequencer (similar to Korg Phase85)
@@ -72,7 +72,7 @@ Participants will be given the following during the workshop:
 - **A few premade instrument prototypes** such as zithers and monochords will be available for those that are most
 interested in diving into software development rather than physical prototyping.
 
-<img width="2371" height="2785" alt="LTDMKit" src="https://github.com/user-attachments/assets/768db1e7-9057-493a-8a6f-dce901dca183" />
+<img width="2371" alt="LTDMKit" src="https://github.com/user-attachments/assets/768db1e7-9057-493a-8a6f-dce901dca183" />
 
 The focus of the workshop is primarily on evoking interesting feedback-actuation behavior through mechanical design,
 programming (in C or Max/MSP), or some interesting interaction between mechanism and software. Given the flexible
@@ -84,7 +84,7 @@ program the LTDM kit. However, there are several alternative ways to engage in t
 - build a new instrument with the LTDM presets
 - any combination of the above
 
-<img width="4041" height="2033" alt="LTDM_RevB" src="https://github.com/user-attachments/assets/57c93732-60ce-4b99-9fe1-67b1f6420c7a" />
+<img width="4041" alt="LTDM_RevB" src="https://github.com/user-attachments/assets/57c93732-60ce-4b99-9fe1-67b1f6420c7a" />
 
 # Organizers
 Adam Schmidt is a PhD Student at Imperial College London's Dyson School of Design Engineering working on designing electromagnetically actuated instruments under the direction of Professor Andrew McPherson in the Augmented Instruments Lab. He received his bachelor's in Sound Engineering and Electrical Engineering and master's in Performing Arts Technology from the University of Michigan. His research investigates how vibrations within instruments can be augmented via electronic feedback and alternative transduction methods. Lately he has been focusing on Lorentz force actuation in instruments such as the Lorentz Lap Brass  with Michael Gurevich, the Sparksichord with Jeff Snyder and Andrew McPherson, and the Weather Harp with Molly Jones and Michael Gurevich.
