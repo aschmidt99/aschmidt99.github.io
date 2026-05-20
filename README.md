@@ -4,7 +4,7 @@
 
 **Where:** TBD
 
-[**Sign-up Link**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB9QuUbj7BKhDgUWiQeRTMqlUMkZTQzlJSjFWWDI4NEw1UUpNOVZYTTVaNC4u)
+[Click Here to sign-up](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB9QuUbj7BKhDgUWiQeRTMqlUMkZTQzlJSjFWWDI4NEw1UUpNOVZYTTVaNC4u)
 
 This half-day workshop focuses on creating and playing feedback-actuated string instruments using Lorentz force actuation. Rather than using electromagnetic coils found in most actuated instruments, Lorentz force actuation involves running electric current through conductive instrument strings in close proximity to strong permanent magnets to induce vibrations in the string. Now the entire length of the string is eligible to become part of the transducer that is formed between the string and the magnet, granting players access to string harmonics and complex behaviors that vary with magnet placement and mechanism design. Participants will first be introduced to the Lorentz Time Division Multiplexing (LTDM) kit – a hardware device that can infinitely-sustain vibrations of conductive instrument strings without the need for external vibration sensors/actuators by simply connecting leads to the ends of a conductive string or a series of strings in close proximity to a strong permanent magnet. Next, depending on a participant’s skills and interests, they will be free to develop new feedback algorithms, develop control and interaction schemes, implement LTDM on their own supplied instrument, and/or build musical mechanisms with the supplied materials.
 
