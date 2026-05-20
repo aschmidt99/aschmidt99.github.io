@@ -1,3 +1,5 @@
+
+
 <img width="1000" alt="LTDM_Workshop_hero_1000pixel" src="https://github.com/user-attachments/assets/3ec645ff-ad00-4c98-9bfe-4c336df01fa7" />
 
 # Workshop Description
@@ -36,7 +38,7 @@ alternates between sensing and actuating modes (at 20kHz), a scheme characterist
 <img width="3128" alt="LTDM" src="https://github.com/user-attachments/assets/fe207f84-cd10-476c-bd8e-86fb8e33b239" />
 
 The LTDM kit makes the deployment of feedback-actuated instruments simpler than ever with the minimum requirements to build a feedback system being just two electrical leads, a conductive resonant string, and a permanent magnet. No computers, calibrations, or theoretical understanding of the system are required to deploy a new feedback system, making the kit ideal for a short workshop with the barrier to making a new feedback string instrument being lower than ever. All of the hardware requirements for this feedback-actuation scheme have been designed into the portable kit so that electronic luthiers can focus on coaxing out new timbres, interactions, and behaviors out of the same strings that have been found on instruments for centuries. We have developed a handful of LTDM-based instrument configurations already, but there are seemingly endless possibilities for how to deploy and enjoy this hardware technology. New timbres have been explored thus far by altering the code within the feedback scheme, experimenting with magnet positions and arrangements,and by creating resonant mechanisms with emergent behavior(s). We wish to engage the creativity of the NIME community to explore additional playing techniques, software algorithms, and instrument morphologies. Some example project ideas that could be investigated during the workshop include (but are not limited to):
-- A physical synthesis step sequencer (similar to Korg Phase85)
+- A physical synthesis step sequencer (similar to Korg Phase8)
 - A Lorentz force feedback-actuated ukulele or lap steel
 - A no-input-mixing setup where a string is part of the feedback path (via the send & return jacks on the kits)
 - A room-length actuated string, inspired by Lucier’s Music on a long, thin wire
@@ -78,7 +80,7 @@ The focus of the workshop is primarily on evoking interesting feedback-actuation
 programming (in C or Max/MSP), or some interesting interaction between mechanism and software. Given the flexible
 nature of the workshop, participants are recommended to bring a laptop with either the Arduino IDE or Max/MSP to
 program the LTDM kit. However, there are several alternative ways to engage in the workshop.
-- Work in Arduino IDE to program the LTDM Kit’s UI (Fig. 4) and signal processing
+- Work in Arduino IDE to program the LTDM Kit’s UI and signal processing
 - Use our supplied starter Max/MSP patch to control the kit
 - explore various resonant mechanisms with LTDM presets
 - build a new instrument with the LTDM presets
